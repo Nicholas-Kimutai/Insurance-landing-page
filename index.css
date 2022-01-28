@@ -35,4 +35,10 @@ a:visited{
 }
 .fpage{
     text-align: center;
+
+}
+.fpage ul li a{
+    text-decoration: none;
+    color: white;
+
 }
