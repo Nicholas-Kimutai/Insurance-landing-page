@@ -41,13 +41,17 @@ a:visited{
  list-style: none;
  flex-direction: row;
  display: flex;
+ justify-content: center;
 }
 .fpage ul li a{
     text-decoration: none;
     color: white;
+    text-align: center;
+    
 
 }
 .fpage button{
     margin: 20px;
+    border-radius:15%;
     
 }
