@@ -30,3 +30,6 @@ color:white;
 a:hover{
     background-color: seagreen;
 }
+a:visited{
+    background-color: seagreen;
+}
