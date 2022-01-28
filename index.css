@@ -37,8 +37,17 @@ a:visited{
     text-align: center;
 
 }
+.fpage ul{
+ list-style: none;
+ flex-direction: row;
+ display: flex;
+}
 .fpage ul li a{
     text-decoration: none;
     color: white;
 
+}
+.fpage button{
+    margin: 20px;
+    
 }
