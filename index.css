@@ -6,7 +6,8 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
     background-repeat: no-repeat; 
     background-attachment: fixed;
     height: 600px;
-    width:fit-content;S
+    width:fit-content;
+    align-items: center;
 
  }
 
@@ -23,6 +24,9 @@ margin: 20px;
 color:white;
 }
 .header button{
-    background-color: lightskyblue;
+    background-color: steelblue;
     color: white;
 } 
+a:hover{
+    background-color: seagreen;
+}
