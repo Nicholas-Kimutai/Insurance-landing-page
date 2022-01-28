@@ -6,6 +6,12 @@
 }
 .header ul{
 list-style: none;
+float: ;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
 
+}
+.header ul li{
 
 }
