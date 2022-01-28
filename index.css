@@ -6,12 +6,17 @@
 }
 .header ul{
 list-style: none;
-float: ;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 
 }
-.header ul li{
-
+.header ul li a{
+text-decoration: none;
+margin: 20px;
+color: white;
+}
+.header button{
+    background-color: lightskyblue;
+    color: white;
 }
