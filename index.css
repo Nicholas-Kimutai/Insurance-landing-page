@@ -168,3 +168,18 @@ color:steelblue;
 .pricePackages button{
     background-color: steelblue;
 }
+
+.lastsec{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    justify-content: center;
+
+}
+.sec1{
+    color:white;
+    margin: 60px;
+    padding: 70px;S
+    
+}
