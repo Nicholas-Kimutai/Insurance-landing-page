@@ -126,6 +126,9 @@ a:visited{
 }
 .logoitems{
     flex-direction: column;
-    margin: 10px;
-
+    margin: 20px;
+    background-color:silver;
+}
+.logoitems img{
+    background-color:silver;
 }
