@@ -114,3 +114,18 @@ a:visited{
     background-color: white;
     padding: 5px;
 }
+.logo {
+
+    display: flex;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin:20px;
+    justify-content: center;
+    
+}
+.logoitems{
+    flex-direction: column;
+    margin: 10px;
+
+}
