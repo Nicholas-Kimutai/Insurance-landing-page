@@ -90,4 +90,12 @@ a:visited{
       text-align: center;
   }
 
-  
+  .content{
+      background-color:silver;
+  }
+  .content1{
+    background-color: silver;
+    text-align: center;
+    padding-top: 30px;
+
+}
