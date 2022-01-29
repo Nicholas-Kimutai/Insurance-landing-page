@@ -146,5 +146,24 @@ a:visited{
 
 .pricing{
     text-align: center;
+
+}
+.packages{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     
+}
+.pricePackages{
+    border:solid steelblue;
+}
+.pricePackages ul{
+    list-style:circle;
+
+}
+.pricePackages h3{
+color:steelblue;
+}
+.pricePackages button{
+    background-color: steelblue;
 }
