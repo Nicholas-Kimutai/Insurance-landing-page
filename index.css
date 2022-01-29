@@ -180,6 +180,18 @@ color:steelblue;
 .sec1{
     color:white;
     margin: 60px;
-    padding: 70px;S
+    padding: 70px;
     
 }
+.appointment{
+    text-align: center;
+    background-image: url(Images/contact-cover.2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 700px;
+    margin-right: 100px;
+    border: solid white;
+    justify-content: center;
+
+}
+
