@@ -48,10 +48,11 @@ a:visited{
     color: white;
     text-align: center;
     
+    
 
 }
 .fpage button{
     margin: 20px;
-    border-radius:15%;
-    
+    border-radius: 10px;
+    background-color:steelblue;
 }
