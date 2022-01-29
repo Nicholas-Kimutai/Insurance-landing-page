@@ -58,9 +58,16 @@ a:visited{
 }
 .values{
   display: flex;
-  
+  justify-content: center;
+  align-items: center;
+
 }
 .items{
     flex-direction: column;
-    margin: solid;
+    background-color: white;
+    border: solid;
+    text-align:left;
+    padding: 2px;
+    margin: 5px;
+    
 }
