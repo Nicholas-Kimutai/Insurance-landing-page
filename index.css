@@ -68,7 +68,7 @@ a:visited{
 .items{
     flex-direction: column;
     background-color: white;
-    border: solid;
+    border: solid white;
     text-align:left;
     padding: 2px;
     margin: 5px;
@@ -109,7 +109,8 @@ a:visited{
 .reviews{
     flex-direction: column;
     text-align: center;
-    border: solid;
+    border: solid white;
     margin: 15px;
     background-color: white;
+    padding: 5px;
 }
