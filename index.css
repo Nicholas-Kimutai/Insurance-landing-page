@@ -200,17 +200,19 @@ color:steelblue;
 .appointment button{
     background-color: steelblue;
 }
-.lastsec{
+.lsec{
     display: flex;
     flex-direction: row;
     background-color:silver;
     margin-bottom:150px;
+    margin:100px;
 }
-.lastsec1{
+.lsec1{
     flex-direction: row;
-    margin:150px;
+    padding-top: 100px;
+    margin-inline:160px;
 }
-.lastsec button{
+.lsec button{
     background-color: steelblue;
 }
 
