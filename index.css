@@ -215,4 +215,17 @@ color:steelblue;
 .lsec button{
     background-color: steelblue;
 }
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.info1{
+    margin:50px;
+    margin-top: -60px;
+}
+.info1 ul{
+    list-style: none;
+    
+}
 
