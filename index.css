@@ -228,4 +228,9 @@ color:steelblue;
     list-style: none;
     
 }
+.footer{
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: row;
+}
 
